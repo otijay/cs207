@@ -18,3 +18,6 @@ The program was written in Arduino and uses two led lights as the eyes and pir m
 -	Double -sided tape
 In addition, the following items are required:
 -	PIR sensor
+
+### Link to presentation
+https://youtu.be/zaYFlkMb26k
