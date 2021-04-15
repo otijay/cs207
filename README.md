@@ -2,7 +2,7 @@ This program is developed by Otobong James
 
 # Motion Sensing Pulsating Eyes
 ## The goal of this project is to create a hallowen prop with pulsating eyes that only activate when motion is detected
-The program was written in Arduini and uses two led lights as the eyes and pir motion sensor. It also prints out when motion is detected
+The program was written in Arduino and uses two led lights as the eyes and pir motion sensor. It also prints out when motion is detected
 
 ## Parts list
 -	Arduino uno
